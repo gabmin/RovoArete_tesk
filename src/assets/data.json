@@ -1,0 +1,7001 @@
+[ 
+{ 
+"order_time":"2022-02-14 15:34:34",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"월요일"
+},
+{ 
+"order_time":"2022-02-14 15:33:22",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"월요일"
+},
+{ 
+"order_time":"2022-02-14 10:55:41",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"월요일"
+},
+{ 
+"order_time":"2022-02-14 10:55:41",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"월요일"
+},
+{ 
+"order_time":"2022-02-14 10:55:41",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"월요일"
+},
+{ 
+"order_time":"2022-02-14 10:55:41",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"월요일"
+},
+{ 
+"order_time":"2022-02-14 10:55:41",
+"actual_cooking_time":583,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"월요일"
+},
+{ 
+"order_time":"2022-02-14 10:55:38",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"월요일"
+},
+{ 
+"order_time":"2022-02-14 10:55:34",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"월요일"
+},
+{ 
+"order_time":"2022-02-14 10:55:30",
+"actual_cooking_time":97,
+"menu_name":"옥수수 튀김",
+"user_id":"00005",
+"week":"월요일"
+},
+{ 
+"order_time":"2022-02-14 10:55:30",
+"actual_cooking_time":97,
+"menu_name":"옥수수 튀김",
+"user_id":"00005",
+"week":"월요일"
+},
+{ 
+"order_time":"2022-02-14 10:40:27",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"월요일"
+},
+{ 
+"order_time":"2022-02-13 23:25:55",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 23:25:55",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:57:22",
+"actual_cooking_time":274,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:36:48",
+"actual_cooking_time":102,
+"menu_name":"옥수수 튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:36:48",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:34:30",
+"actual_cooking_time":274,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:34:20",
+"actual_cooking_time":101,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:34:20",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:34:20",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:34:10",
+"actual_cooking_time":392,
+"menu_name":"후라이드/양념 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:29:41",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:22:00",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:21:08",
+"actual_cooking_time":120,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:21:08",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:21:08",
+"actual_cooking_time":380,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:05:41",
+"actual_cooking_time":367,
+"menu_name":"후추후추 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:00:35",
+"actual_cooking_time":108,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 22:00:35",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:52:55",
+"actual_cooking_time":292,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:52:55",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:31:44",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:30:06",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:30:06",
+"actual_cooking_time":274,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:30:06",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:26:23",
+"actual_cooking_time":321,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:26:23",
+"actual_cooking_time":300,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:26:23",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:16:46",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:16:46",
+"actual_cooking_time":293,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:09:17",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:09:17",
+"actual_cooking_time":274,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 21:09:17",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:57:59",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:57:59",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:56:20",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:53:27",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:53:27",
+"actual_cooking_time":216,
+"menu_name":"감자튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:53:27",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:53:27",
+"actual_cooking_time":366,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:51:54",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:51:54",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:44:32",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:44:32",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:44:32",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:35:49",
+"actual_cooking_time":365,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:35:37",
+"actual_cooking_time":313,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:35:37",
+"actual_cooking_time":424,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:35:37",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:30:58",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:29:21",
+"actual_cooking_time":203,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:29:21",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:29:21",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:29:21",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:25:30",
+"actual_cooking_time":388,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:22:01",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:22:01",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:15:17",
+"actual_cooking_time":225,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:15:17",
+"actual_cooking_time":279,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:15:17",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:09:54",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:08:46",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:04:45",
+"actual_cooking_time":283,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 20:04:45",
+"actual_cooking_time":179,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:55:46",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:51:24",
+"actual_cooking_time":null,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:51:24",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:51:24",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:51:02",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:47:04",
+"actual_cooking_time":365,
+"menu_name":"후라이드/양념 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:45:59",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:45:59",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:45:59",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:41:53",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:41:53",
+"actual_cooking_time":576,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:35:14",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:35:14",
+"actual_cooking_time":294,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:35:14",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:35:06",
+"actual_cooking_time":371,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:35:06",
+"actual_cooking_time":385,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:30:04",
+"actual_cooking_time":113,
+"menu_name":"옥수수 튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:30:04",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:27:12",
+"actual_cooking_time":369,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:22:32",
+"actual_cooking_time":575,
+"menu_name":"양념치킨 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:22:32",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:19:51",
+"actual_cooking_time":302,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:19:51",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:16:02",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:15:37",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:11:08",
+"actual_cooking_time":216,
+"menu_name":"감자튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:11:08",
+"actual_cooking_time":366,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:09:31",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 19:05:14",
+"actual_cooking_time":577,
+"menu_name":"후추후추/양념 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:54:27",
+"actual_cooking_time":590,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:49:03",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:49:03",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:48:48",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:44:36",
+"actual_cooking_time":191,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:44:36",
+"actual_cooking_time":577,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:42:34",
+"actual_cooking_time":390,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:37:51",
+"actual_cooking_time":94,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:37:51",
+"actual_cooking_time":368,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:36:19",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:35:01",
+"actual_cooking_time":null,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:35:01",
+"actual_cooking_time":392,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:28:01",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:27:18",
+"actual_cooking_time":575,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:25:03",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:24:17",
+"actual_cooking_time":null,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:21:48",
+"actual_cooking_time":null,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:21:48",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:21:14",
+"actual_cooking_time":388,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:15:11",
+"actual_cooking_time":368,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:15:11",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:15:11",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:11:41",
+"actual_cooking_time":191,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:11:41",
+"actual_cooking_time":367,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:10:35",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:08:51",
+"actual_cooking_time":383,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:08:51",
+"actual_cooking_time":null,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:08:51",
+"actual_cooking_time":426,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 18:02:57",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:55:11",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:55:11",
+"actual_cooking_time":135,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:54:59",
+"actual_cooking_time":428,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:54:59",
+"actual_cooking_time":null,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:54:11",
+"actual_cooking_time":576,
+"menu_name":"후라이드/양념 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:42:20",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:42:20",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:41:36",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:39:48",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:39:48",
+"actual_cooking_time":576,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:39:31",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:39:31",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:39:31",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:35:24",
+"actual_cooking_time":107,
+"menu_name":"옥수수 튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:35:24",
+"actual_cooking_time":299,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:35:24",
+"actual_cooking_time":588,
+"menu_name":"후라이드/양념 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:35:15",
+"actual_cooking_time":365,
+"menu_name":"후추후추/간장계장 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:34:38",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:34:38",
+"actual_cooking_time":374,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:34:38",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:34:38",
+"actual_cooking_time":581,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:29:11",
+"actual_cooking_time":97,
+"menu_name":"옥수수 튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:19:24",
+"actual_cooking_time":618,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:17:52",
+"actual_cooking_time":274,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:17:52",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:17:52",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:17:48",
+"actual_cooking_time":387,
+"menu_name":"후라이드/양념 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:17:48",
+"actual_cooking_time":365,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:17:09",
+"actual_cooking_time":584,
+"menu_name":"핫핫 맵간장 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:17:09",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:16:23",
+"actual_cooking_time":402,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:16:23",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:16:23",
+"actual_cooking_time":590,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:13:26",
+"actual_cooking_time":108,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:13:26",
+"actual_cooking_time":597,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:13:25",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:13:25",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:13:25",
+"actual_cooking_time":394,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:12:47",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:12:47",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:11:47",
+"actual_cooking_time":320,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:11:00",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:11:00",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:09:25",
+"actual_cooking_time":108,
+"menu_name":"옥수수 튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:09:25",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:09:25",
+"actual_cooking_time":575,
+"menu_name":"후추후추 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:05:35",
+"actual_cooking_time":315,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:05:35",
+"actual_cooking_time":577,
+"menu_name":"후추후추 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:03:25",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:03:25",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:01:26",
+"actual_cooking_time":583,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 17:01:26",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:56:48",
+"actual_cooking_time":585,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:56:39",
+"actual_cooking_time":186,
+"menu_name":"고구마 튀김",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:50:54",
+"actual_cooking_time":577,
+"menu_name":"후추후추/간장계장 뼈",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:50:07",
+"actual_cooking_time":295,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:50:07",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:41:30",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:41:30",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:41:24",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:39:00",
+"actual_cooking_time":365,
+"menu_name":"양념치킨 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:39:00",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:36:53",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:33:41",
+"actual_cooking_time":120,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:33:41",
+"actual_cooking_time":370,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:30:23",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:30:23",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:21:35",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:18:38",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:18:38",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:18:38",
+"actual_cooking_time":365,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:16:52",
+"actual_cooking_time":366,
+"menu_name":"파인 탱큐 앤 유자 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:16:52",
+"actual_cooking_time":369,
+"menu_name":"후추후추 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:16:52",
+"actual_cooking_time":368,
+"menu_name":"양념치킨 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:16:52",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:05:53",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:05:45",
+"actual_cooking_time":489,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:05:45",
+"actual_cooking_time":590,
+"menu_name":"후추후추 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:05:35",
+"actual_cooking_time":381,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:05:35",
+"actual_cooking_time":653,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 16:05:35",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 15:53:14",
+"actual_cooking_time":187,
+"menu_name":"고구마 튀김",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 14:48:54",
+"actual_cooking_time":186,
+"menu_name":"고구마 튀김",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 13:08:54",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 13:08:49",
+"actual_cooking_time":371,
+"menu_name":"파인 탱큐 앤 유자 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 13:08:49",
+"actual_cooking_time":367,
+"menu_name":"후추후추 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 13:08:49",
+"actual_cooking_time":366,
+"menu_name":"양념치킨 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 13:08:49",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 11:44:06",
+"actual_cooking_time":382,
+"menu_name":"후추후추 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 11:44:06",
+"actual_cooking_time":367,
+"menu_name":"파인 탱큐 앤 유자 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 11:44:06",
+"actual_cooking_time":367,
+"menu_name":"양념치킨 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 11:44:06",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 10:58:51",
+"actual_cooking_time":188,
+"menu_name":"고구마 튀김",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 10:58:48",
+"actual_cooking_time":577,
+"menu_name":"후추후추 뼈",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 10:58:48",
+"actual_cooking_time":578,
+"menu_name":"양념치킨 뼈",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 10:58:48",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 10:56:58",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 10:52:51",
+"actual_cooking_time":187,
+"menu_name":"고구마 튀김",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 10:50:41",
+"actual_cooking_time":368,
+"menu_name":"후추후추 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 10:50:41",
+"actual_cooking_time":366,
+"menu_name":"양념치킨 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 10:50:41",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 10:50:35",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-13 10:11:57",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"일요일"
+},
+{ 
+"order_time":"2022-02-12 23:29:51",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:28:18",
+"actual_cooking_time":216,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:28:18",
+"actual_cooking_time":366,
+"menu_name":"후라이드/간장계장 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:26:26",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:25:29",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:22:36",
+"actual_cooking_time":378,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:18:35",
+"actual_cooking_time":305,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:18:35",
+"actual_cooking_time":410,
+"menu_name":"양념치킨 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:18:13",
+"actual_cooking_time":382,
+"menu_name":"양념치킨 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:13:12",
+"actual_cooking_time":575,
+"menu_name":"후라이드/핫한맵간장 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:11:16",
+"actual_cooking_time":575,
+"menu_name":"후라이드/핫한맵간장 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:07:41",
+"actual_cooking_time":387,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:04:12",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 23:04:12",
+"actual_cooking_time":366,
+"menu_name":"후라이드/양념 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:57:44",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:57:44",
+"actual_cooking_time":186,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:57:44",
+"actual_cooking_time":187,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:57:44",
+"actual_cooking_time":385,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:44:13",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:37:36",
+"actual_cooking_time":281,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:37:36",
+"actual_cooking_time":367,
+"menu_name":"양념치킨 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:29:19",
+"actual_cooking_time":574,
+"menu_name":"후추후추/양념 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:29:11",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:29:11",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:28:03",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:28:03",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:17:48",
+"actual_cooking_time":366,
+"menu_name":"후추후추/핫한맵간장 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 22:10:46",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:57:36",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:55:28",
+"actual_cooking_time":null,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:52:45",
+"actual_cooking_time":240,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:52:45",
+"actual_cooking_time":186,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:52:45",
+"actual_cooking_time":369,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:50:48",
+"actual_cooking_time":118,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:50:48",
+"actual_cooking_time":370,
+"menu_name":"간장계장 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:44:44",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:44:44",
+"actual_cooking_time":575,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:25:56",
+"actual_cooking_time":575,
+"menu_name":"후추후추/양념 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:23:40",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:23:40",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:18:53",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:18:25",
+"actual_cooking_time":575,
+"menu_name":"후추후추 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:18:11",
+"actual_cooking_time":218,
+"menu_name":"감자튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:15:40",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:15:40",
+"actual_cooking_time":367,
+"menu_name":"후추후추 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:14:53",
+"actual_cooking_time":575,
+"menu_name":"후라이드/양념 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:03:16",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:03:16",
+"actual_cooking_time":107,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 21:03:16",
+"actual_cooking_time":274,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:54:57",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:49:44",
+"actual_cooking_time":214,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:49:44",
+"actual_cooking_time":289,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:49:44",
+"actual_cooking_time":366,
+"menu_name":"핫핫 맵간장 치킨",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:48:48",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:48:45",
+"actual_cooking_time":373,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:48:03",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:48:03",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:48:03",
+"actual_cooking_time":369,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:46:43",
+"actual_cooking_time":94,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:43:41",
+"actual_cooking_time":293,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:38:08",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:38:08",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:32:59",
+"actual_cooking_time":186,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:32:59",
+"actual_cooking_time":298,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:32:59",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:32:43",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:31:12",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:29:35",
+"actual_cooking_time":371,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:28:51",
+"actual_cooking_time":193,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:28:51",
+"actual_cooking_time":575,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:25:29",
+"actual_cooking_time":239,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:25:29",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:25:29",
+"actual_cooking_time":139,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:25:29",
+"actual_cooking_time":383,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:25:17",
+"actual_cooking_time":365,
+"menu_name":"후라이드/양념 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:18:41",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:18:41",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:12:16",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:12:16",
+"actual_cooking_time":184,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:12:16",
+"actual_cooking_time":366,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:11:08",
+"actual_cooking_time":197,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:11:08",
+"actual_cooking_time":299,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:11:08",
+"actual_cooking_time":365,
+"menu_name":"양념치킨 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:10:50",
+"actual_cooking_time":186,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:10:50",
+"actual_cooking_time":366,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:06:29",
+"actual_cooking_time":280,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:06:29",
+"actual_cooking_time":396,
+"menu_name":"간장계장 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:06:29",
+"actual_cooking_time":577,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:05:10",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:05:10",
+"actual_cooking_time":400,
+"menu_name":"걱정마롸요 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:03:03",
+"actual_cooking_time":243,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:03:03",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 20:03:03",
+"actual_cooking_time":575,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:59:20",
+"actual_cooking_time":365,
+"menu_name":"후추후추/핫한맵간장 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:54:49",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:54:49",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:54:49",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:54:09",
+"actual_cooking_time":293,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:54:09",
+"actual_cooking_time":367,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:52:16",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:48:56",
+"actual_cooking_time":288,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:48:56",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:44:00",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:41:30",
+"actual_cooking_time":586,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:41:30",
+"actual_cooking_time":592,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:38:55",
+"actual_cooking_time":186,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:38:55",
+"actual_cooking_time":null,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:26:17",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:26:17",
+"actual_cooking_time":576,
+"menu_name":"후라이드/양념 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:25:41",
+"actual_cooking_time":632,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:25:41",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:21:47",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:21:47",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:21:47",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:21:34",
+"actual_cooking_time":365,
+"menu_name":"후라이드/간장계장 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:21:26",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:21:26",
+"actual_cooking_time":576,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:21:15",
+"actual_cooking_time":231,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:21:15",
+"actual_cooking_time":347,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:21:15",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:19:10",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:19:06",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:19:02",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:18:58",
+"actual_cooking_time":578,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:14:34",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:14:34",
+"actual_cooking_time":595,
+"menu_name":"핫핫 맵간장 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:14:15",
+"actual_cooking_time":184,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:14:15",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:14:15",
+"actual_cooking_time":595,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:10:38",
+"actual_cooking_time":199,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:10:38",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:09:46",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:09:46",
+"actual_cooking_time":400,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:03:58",
+"actual_cooking_time":575,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 19:03:10",
+"actual_cooking_time":575,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:50:57",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:50:57",
+"actual_cooking_time":576,
+"menu_name":"후추후추/양념 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:50:19",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:38:18",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:38:18",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:35:02",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:35:02",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:35:02",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:33:26",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:27:30",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:24:18",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:24:18",
+"actual_cooking_time":365,
+"menu_name":"걱정마롸요 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:24:00",
+"actual_cooking_time":575,
+"menu_name":"후추후추 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:24:00",
+"actual_cooking_time":590,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:22:28",
+"actual_cooking_time":302,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:22:28",
+"actual_cooking_time":575,
+"menu_name":"후추후추/양념 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:21:58",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:20:02",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:20:02",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:18:05",
+"actual_cooking_time":379,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:17:56",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:17:56",
+"actual_cooking_time":365,
+"menu_name":"양념치킨 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:15:05",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:15:05",
+"actual_cooking_time":102,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:15:05",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:10:06",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:10:06",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:05:12",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:05:12",
+"actual_cooking_time":377,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 18:05:12",
+"actual_cooking_time":581,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:54:56",
+"actual_cooking_time":310,
+"menu_name":"감자튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:54:56",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:54:56",
+"actual_cooking_time":598,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:53:22",
+"actual_cooking_time":216,
+"menu_name":"감자튀김",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:51:57",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:51:57",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:51:04",
+"actual_cooking_time":365,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:50:03",
+"actual_cooking_time":112,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:50:03",
+"actual_cooking_time":377,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:49:14",
+"actual_cooking_time":576,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:49:07",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:48:59",
+"actual_cooking_time":576,
+"menu_name":"후라이드/핫한맵간장 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:46:18",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:46:18",
+"actual_cooking_time":378,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:46:18",
+"actual_cooking_time":368,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:44:19",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:44:19",
+"actual_cooking_time":297,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:44:19",
+"actual_cooking_time":375,
+"menu_name":"양념치킨 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:41:57",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:41:57",
+"actual_cooking_time":576,
+"menu_name":"후추후추 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:38:29",
+"actual_cooking_time":103,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:38:29",
+"actual_cooking_time":587,
+"menu_name":"후추후추/양념 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:35:41",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:35:41",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:35:41",
+"actual_cooking_time":582,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:32:52",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:30:49",
+"actual_cooking_time":604,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:30:17",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:30:17",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:30:17",
+"actual_cooking_time":126,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:30:09",
+"actual_cooking_time":112,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:30:09",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:30:09",
+"actual_cooking_time":609,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:28:51",
+"actual_cooking_time":274,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:26:25",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:26:25",
+"actual_cooking_time":365,
+"menu_name":"간장계장 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:25:04",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:25:04",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:20:41",
+"actual_cooking_time":184,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:20:41",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:18:46",
+"actual_cooking_time":594,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:16:48",
+"actual_cooking_time":575,
+"menu_name":"후추후추/핫한맵간장 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:08:58",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:08:58",
+"actual_cooking_time":244,
+"menu_name":"감자튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:08:58",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:08:54",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:08:54",
+"actual_cooking_time":603,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:08:39",
+"actual_cooking_time":186,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:08:39",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:08:16",
+"actual_cooking_time":111,
+"menu_name":"옥수수 튀김",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:08:16",
+"actual_cooking_time":586,
+"menu_name":"후추후추 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:07:26",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:07:26",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:07:22",
+"actual_cooking_time":585,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 17:07:22",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:54:24",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:54:24",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:53:32",
+"actual_cooking_time":231,
+"menu_name":"감자튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:48:13",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:48:13",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:47:20",
+"actual_cooking_time":576,
+"menu_name":"후추후추/핫한맵간장 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:46:02",
+"actual_cooking_time":576,
+"menu_name":"양념치킨 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:46:02",
+"actual_cooking_time":575,
+"menu_name":"후추후추 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:43:57",
+"actual_cooking_time":575,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:42:13",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:40:50",
+"actual_cooking_time":401,
+"menu_name":"후라이드/걱정마롸요 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:37:28",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:37:28",
+"actual_cooking_time":382,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:37:28",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:27:09",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:27:09",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:27:09",
+"actual_cooking_time":366,
+"menu_name":"후라이드/양념 순살",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:24:52",
+"actual_cooking_time":605,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:24:52",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:24:16",
+"actual_cooking_time":217,
+"menu_name":"감자튀김",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:22:49",
+"actual_cooking_time":576,
+"menu_name":"후라이드/간장계장 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:19:25",
+"actual_cooking_time":332,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:19:25",
+"actual_cooking_time":382,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:17:25",
+"actual_cooking_time":116,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:17:25",
+"actual_cooking_time":640,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:16:55",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:14:10",
+"actual_cooking_time":631,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:14:10",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 16:03:35",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 15:24:43",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 15:24:43",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 15:24:43",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 15:02:21",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:51:07",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:49:17",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:29:21",
+"actual_cooking_time":367,
+"menu_name":"후추후추 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:29:21",
+"actual_cooking_time":377,
+"menu_name":"파인 탱큐 앤 유자 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:29:21",
+"actual_cooking_time":369,
+"menu_name":"양념치킨 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:29:21",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:29:17",
+"actual_cooking_time":577,
+"menu_name":"후추후추 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:29:17",
+"actual_cooking_time":578,
+"menu_name":"파인 댕큐 앤 유자 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:29:17",
+"actual_cooking_time":578,
+"menu_name":"양념치킨 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:29:17",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:21:49",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:21:49",
+"actual_cooking_time":577,
+"menu_name":"후추후추 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:15:49",
+"actual_cooking_time":365,
+"menu_name":"후라이드/간장계장 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:15:49",
+"actual_cooking_time":383,
+"menu_name":"양념치킨 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:12:42",
+"actual_cooking_time":367,
+"menu_name":"후추후추 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 14:12:42",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 13:26:01",
+"actual_cooking_time":575,
+"menu_name":"후추후추/핫한맵간장 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 13:23:02",
+"actual_cooking_time":364,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 13:18:05",
+"actual_cooking_time":576,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 13:15:52",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 13:15:52",
+"actual_cooking_time":575,
+"menu_name":"후추후추/간장계장 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 12:56:49",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 12:56:49",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 12:45:58",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 12:45:58",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 12:18:52",
+"actual_cooking_time":366,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 12:13:26",
+"actual_cooking_time":365,
+"menu_name":"후라이드/걱정마롸요 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 12:08:28",
+"actual_cooking_time":366,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 12:01:10",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 12:01:04",
+"actual_cooking_time":367,
+"menu_name":"양념치킨 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 12:01:04",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 11:47:33",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 11:47:33",
+"actual_cooking_time":367,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 11:37:49",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 11:37:49",
+"actual_cooking_time":575,
+"menu_name":"후추후추 뼈",
+"user_id":"00001",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 11:21:46",
+"actual_cooking_time":97,
+"menu_name":"옥수수 튀김",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 11:20:11",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 11:09:14",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 10:56:21",
+"actual_cooking_time":187,
+"menu_name":"고구마 튀김",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 10:52:40",
+"actual_cooking_time":577,
+"menu_name":"파인 댕큐 앤 유자 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 10:52:40",
+"actual_cooking_time":577,
+"menu_name":"후추후추 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 10:52:40",
+"actual_cooking_time":591,
+"menu_name":"양념치킨 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 10:52:40",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 10:49:55",
+"actual_cooking_time":367,
+"menu_name":"후추후추 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 10:49:55",
+"actual_cooking_time":378,
+"menu_name":"양념치킨 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 10:49:55",
+"actual_cooking_time":419,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-12 10:37:15",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"토요일"
+},
+{ 
+"order_time":"2022-02-11 23:37:59",
+"actual_cooking_time":94,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:37:59",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:37:59",
+"actual_cooking_time":576,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:26:38",
+"actual_cooking_time":127,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:26:38",
+"actual_cooking_time":287,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:26:38",
+"actual_cooking_time":383,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:26:25",
+"actual_cooking_time":345,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:26:25",
+"actual_cooking_time":391,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:26:17",
+"actual_cooking_time":221,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:26:17",
+"actual_cooking_time":204,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:26:17",
+"actual_cooking_time":574,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:23:07",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:18:16",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:18:16",
+"actual_cooking_time":601,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:18:13",
+"actual_cooking_time":299,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:18:13",
+"actual_cooking_time":366,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:15:58",
+"actual_cooking_time":577,
+"menu_name":"양념치킨 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:14:53",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:13:44",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:13:40",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:13:40",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:08:36",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:08:36",
+"actual_cooking_time":575,
+"menu_name":"후추후추/양념 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:07:44",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:07:44",
+"actual_cooking_time":365,
+"menu_name":"후추후추/간장계장 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:04:33",
+"actual_cooking_time":321,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:04:33",
+"actual_cooking_time":417,
+"menu_name":"핫핫 맵간장 치킨",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:01:04",
+"actual_cooking_time":200,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:01:04",
+"actual_cooking_time":620,
+"menu_name":"후라이드/양념 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 23:00:17",
+"actual_cooking_time":575,
+"menu_name":"후추후추/핫한맵간장 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:50:51",
+"actual_cooking_time":null,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:50:51",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:23:22",
+"actual_cooking_time":366,
+"menu_name":"양념치킨 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:23:16",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:23:16",
+"actual_cooking_time":576,
+"menu_name":"후라이드/양념 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:17:27",
+"actual_cooking_time":375,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:15:25",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:15:25",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:15:25",
+"actual_cooking_time":575,
+"menu_name":"후추후추/양념 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:13:23",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:12:56",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:12:56",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:11:18",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:11:18",
+"actual_cooking_time":576,
+"menu_name":"후추후추/양념 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:09:18",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:03:40",
+"actual_cooking_time":405,
+"menu_name":"양념치킨 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 22:03:40",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:58:23",
+"actual_cooking_time":598,
+"menu_name":"후라이드/양념 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:48:52",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:45:59",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:45:59",
+"actual_cooking_time":575,
+"menu_name":"후라이드/양념 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:38:10",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:38:10",
+"actual_cooking_time":365,
+"menu_name":"핫핫 맵간장 치킨",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:36:53",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:34:35",
+"actual_cooking_time":372,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:33:10",
+"actual_cooking_time":379,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:33:10",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:33:10",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:25:03",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:24:56",
+"actual_cooking_time":184,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:24:56",
+"actual_cooking_time":98,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:20:20",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:20:20",
+"actual_cooking_time":384,
+"menu_name":"후추후추 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:17:54",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:16:25",
+"actual_cooking_time":289,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:16:25",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:13:44",
+"actual_cooking_time":365,
+"menu_name":"후라이드/걱정마롸요 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:13:05",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:11:07",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:11:07",
+"actual_cooking_time":387,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:10:20",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:08:49",
+"actual_cooking_time":378,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:07:09",
+"actual_cooking_time":367,
+"menu_name":"후라이드/간장계장 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:07:02",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:07:02",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:06:53",
+"actual_cooking_time":94,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:06:53",
+"actual_cooking_time":389,
+"menu_name":"후라이드/양념 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:03:16",
+"actual_cooking_time":212,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:03:16",
+"actual_cooking_time":575,
+"menu_name":"후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:01:44",
+"actual_cooking_time":103,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:01:44",
+"actual_cooking_time":280,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:01:44",
+"actual_cooking_time":366,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 21:01:05",
+"actual_cooking_time":575,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:58:50",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:58:50",
+"actual_cooking_time":367,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:51:56",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:47:08",
+"actual_cooking_time":null,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:47:05",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:46:59",
+"actual_cooking_time":575,
+"menu_name":"양념치킨 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:44:56",
+"actual_cooking_time":null,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:39:38",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:39:38",
+"actual_cooking_time":582,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:32:42",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:32:35",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:30:32",
+"actual_cooking_time":null,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:29:30",
+"actual_cooking_time":575,
+"menu_name":"후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:29:08",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:27:02",
+"actual_cooking_time":575,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:25:37",
+"actual_cooking_time":null,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:23:39",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:23:39",
+"actual_cooking_time":366,
+"menu_name":"간장계장 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:22:36",
+"actual_cooking_time":191,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:22:36",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:22:36",
+"actual_cooking_time":371,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:22:15",
+"actual_cooking_time":97,
+"menu_name":"옥수수 튀김",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:22:15",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:14:48",
+"actual_cooking_time":597,
+"menu_name":"후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:14:04",
+"actual_cooking_time":97,
+"menu_name":"옥수수 튀김",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:14:04",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:13:12",
+"actual_cooking_time":207,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:13:12",
+"actual_cooking_time":577,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:12:41",
+"actual_cooking_time":588,
+"menu_name":"후추후추 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:12:33",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:09:30",
+"actual_cooking_time":378,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:09:30",
+"actual_cooking_time":625,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:09:30",
+"actual_cooking_time":null,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:09:30",
+"actual_cooking_time":100,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:05:26",
+"actual_cooking_time":393,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:05:26",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:05:12",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:05:12",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:00:10",
+"actual_cooking_time":203,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 20:00:10",
+"actual_cooking_time":365,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:58:39",
+"actual_cooking_time":371,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:58:39",
+"actual_cooking_time":604,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:54:10",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:53:41",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:53:02",
+"actual_cooking_time":590,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:52:34",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:52:07",
+"actual_cooking_time":375,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:52:07",
+"actual_cooking_time":591,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:51:51",
+"actual_cooking_time":597,
+"menu_name":"후추후추 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:48:41",
+"actual_cooking_time":366,
+"menu_name":"양념치킨 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:48:37",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:48:37",
+"actual_cooking_time":377,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:45:30",
+"actual_cooking_time":365,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:40:14",
+"actual_cooking_time":586,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:40:14",
+"actual_cooking_time":403,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:37:52",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:37:52",
+"actual_cooking_time":274,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:37:52",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:37:52",
+"actual_cooking_time":394,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:37:38",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:37:38",
+"actual_cooking_time":216,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:37:38",
+"actual_cooking_time":367,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:36:56",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:36:56",
+"actual_cooking_time":628,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:32:46",
+"actual_cooking_time":124,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:32:46",
+"actual_cooking_time":210,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:32:46",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:29:48",
+"actual_cooking_time":493,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:29:48",
+"actual_cooking_time":614,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:29:44",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:29:44",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:28:23",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:27:51",
+"actual_cooking_time":371,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:27:48",
+"actual_cooking_time":372,
+"menu_name":"후라이드/양념 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:27:30",
+"actual_cooking_time":584,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:27:11",
+"actual_cooking_time":117,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:24:40",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:24:40",
+"actual_cooking_time":373,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:24:11",
+"actual_cooking_time":396,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:23:29",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:21:27",
+"actual_cooking_time":365,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:21:20",
+"actual_cooking_time":null,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:20:07",
+"actual_cooking_time":null,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:19:42",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:19:42",
+"actual_cooking_time":384,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:18:58",
+"actual_cooking_time":null,
+"menu_name":"고구마 튀김",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:18:58",
+"actual_cooking_time":216,
+"menu_name":"감자튀김",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:18:58",
+"actual_cooking_time":97,
+"menu_name":"옥수수 튀김",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:18:15",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:18:15",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:18:15",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:18:13",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:18:13",
+"actual_cooking_time":594,
+"menu_name":"핫핫 맵간장 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:15:52",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:15:51",
+"actual_cooking_time":null,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:15:51",
+"actual_cooking_time":null,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:15:48",
+"actual_cooking_time":580,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:15:48",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:15:48",
+"actual_cooking_time":null,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:11:37",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:11:37",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:06:04",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:06:04",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:06:04",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:03:27",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:03:27",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:02:11",
+"actual_cooking_time":593,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:00:08",
+"actual_cooking_time":191,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 19:00:08",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:58:57",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:56:23",
+"actual_cooking_time":365,
+"menu_name":"후라이드/양념 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:54:31",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:54:31",
+"actual_cooking_time":610,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:48:10",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:48:10",
+"actual_cooking_time":366,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:47:38",
+"actual_cooking_time":403,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:47:38",
+"actual_cooking_time":408,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:47:38",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:47:11",
+"actual_cooking_time":575,
+"menu_name":"후라이드/양념 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:47:08",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:47:08",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:46:52",
+"actual_cooking_time":105,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:46:10",
+"actual_cooking_time":217,
+"menu_name":"감자튀김",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:43:53",
+"actual_cooking_time":378,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:43:53",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:42:29",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:42:29",
+"actual_cooking_time":586,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:39:15",
+"actual_cooking_time":184,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:38:22",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:35:35",
+"actual_cooking_time":214,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:35:35",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:35:35",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:34:25",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:34:25",
+"actual_cooking_time":274,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:34:21",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:31:36",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:31:36",
+"actual_cooking_time":366,
+"menu_name":"양념치킨 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:31:04",
+"actual_cooking_time":576,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:28:49",
+"actual_cooking_time":111,
+"menu_name":"옥수수 튀김",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:28:49",
+"actual_cooking_time":577,
+"menu_name":"후추후추/양념 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:27:04",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:26:12",
+"actual_cooking_time":237,
+"menu_name":"감자튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:25:12",
+"actual_cooking_time":301,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:25:12",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:23:12",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:23:05",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:19:53",
+"actual_cooking_time":371,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:19:53",
+"actual_cooking_time":603,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:12:46",
+"actual_cooking_time":395,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:12:46",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:11:55",
+"actual_cooking_time":187,
+"menu_name":"고구마 튀김",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:10:01",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:10:01",
+"actual_cooking_time":580,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:09:43",
+"actual_cooking_time":207,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:09:43",
+"actual_cooking_time":575,
+"menu_name":"후라이드/핫한맵간장 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:09:30",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:09:30",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:06:12",
+"actual_cooking_time":575,
+"menu_name":"걱정마롸요 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:06:12",
+"actual_cooking_time":575,
+"menu_name":"후라이드/양념 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:04:04",
+"actual_cooking_time":388,
+"menu_name":"핫핫 맵간장 치킨",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 18:04:04",
+"actual_cooking_time":382,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:53:04",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:53:04",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:53:04",
+"actual_cooking_time":375,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:51:01",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:50:57",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:49:06",
+"actual_cooking_time":575,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:44:45",
+"actual_cooking_time":186,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:44:45",
+"actual_cooking_time":373,
+"menu_name":"양념치킨 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:44:45",
+"actual_cooking_time":365,
+"menu_name":"간장계장 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:44:45",
+"actual_cooking_time":584,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:44:45",
+"actual_cooking_time":583,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:41:04",
+"actual_cooking_time":187,
+"menu_name":"고구마 튀김",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:39:38",
+"actual_cooking_time":293,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:38:35",
+"actual_cooking_time":576,
+"menu_name":"양념치킨 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:38:35",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:36:04",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:36:04",
+"actual_cooking_time":594,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:36:04",
+"actual_cooking_time":578,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:34:40",
+"actual_cooking_time":186,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:34:40",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:34:40",
+"actual_cooking_time":597,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:34:32",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:34:32",
+"actual_cooking_time":365,
+"menu_name":"후라이드/양념 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:34:18",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:30:36",
+"actual_cooking_time":612,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:28:35",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:28:35",
+"actual_cooking_time":366,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:26:18",
+"actual_cooking_time":591,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:24:33",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:24:27",
+"actual_cooking_time":335,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:24:21",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:18:06",
+"actual_cooking_time":393,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:16:58",
+"actual_cooking_time":363,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:16:58",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:15:18",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:13:32",
+"actual_cooking_time":101,
+"menu_name":"옥수수 튀김",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:12:40",
+"actual_cooking_time":383,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:08:34",
+"actual_cooking_time":365,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:08:15",
+"actual_cooking_time":576,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:01:55",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:01:55",
+"actual_cooking_time":584,
+"menu_name":"양념치킨 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:01:55",
+"actual_cooking_time":579,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:01:26",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:01:26",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 17:01:18",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:59:36",
+"actual_cooking_time":582,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:59:36",
+"actual_cooking_time":586,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:55:40",
+"actual_cooking_time":367,
+"menu_name":"양념치킨 순살",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:55:22",
+"actual_cooking_time":575,
+"menu_name":"후추후추 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:55:22",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:54:20",
+"actual_cooking_time":574,
+"menu_name":"후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:50:36",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:50:36",
+"actual_cooking_time":575,
+"menu_name":"후라이드/핫한맵간장 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:26:40",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:26:40",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:23:49",
+"actual_cooking_time":602,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:21:40",
+"actual_cooking_time":184,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:21:40",
+"actual_cooking_time":576,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:16:59",
+"actual_cooking_time":274,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:16:59",
+"actual_cooking_time":577,
+"menu_name":"양념치킨 뼈",
+"user_id":"00001",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:16:15",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:16:15",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:10:58",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:10:58",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:05:37",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:05:37",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 16:05:37",
+"actual_cooking_time":366,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 15:34:42",
+"actual_cooking_time":577,
+"menu_name":"후추후추 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 15:34:42",
+"actual_cooking_time":577,
+"menu_name":"파인 댕큐 앤 유자 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 15:34:42",
+"actual_cooking_time":582,
+"menu_name":"양념치킨 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 15:34:42",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 15:34:38",
+"actual_cooking_time":367,
+"menu_name":"후추후추 순살",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 15:34:38",
+"actual_cooking_time":367,
+"menu_name":"파인 탱큐 앤 유자 순살",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 15:34:38",
+"actual_cooking_time":367,
+"menu_name":"양념치킨 순살",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 15:34:38",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 15:34:25",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 15:20:12",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 14:59:48",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 14:59:48",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 14:59:48",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 14:59:48",
+"actual_cooking_time":214,
+"menu_name":"감자튀김",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 14:53:53",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 13:55:02",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 13:47:40",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 13:42:01",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 12:03:25",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 11:37:39",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 11:37:33",
+"actual_cooking_time":null,
+"menu_name":"파인 댕큐 앤 유자 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 11:37:33",
+"actual_cooking_time":577,
+"menu_name":"후추후추 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 11:37:33",
+"actual_cooking_time":577,
+"menu_name":"양념치킨 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 11:37:33",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 11:20:24",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-11 10:45:28",
+"actual_cooking_time":277,
+"menu_name":"치즈볼",
+"user_id":"00005",
+"week":"금요일"
+},
+{ 
+"order_time":"2022-02-10 23:57:52",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:55:29",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:55:29",
+"actual_cooking_time":368,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:36:15",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:36:15",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:31:24",
+"actual_cooking_time":366,
+"menu_name":"후라이드/양념 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:29:26",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:29:26",
+"actual_cooking_time":372,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:24:21",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:20:45",
+"actual_cooking_time":312,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:20:45",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:19:16",
+"actual_cooking_time":109,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:17:23",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:17:23",
+"actual_cooking_time":576,
+"menu_name":"후추후추 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:13:41",
+"actual_cooking_time":365,
+"menu_name":"후추후추/걱정뫄롸요 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:10:45",
+"actual_cooking_time":364,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:10:00",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:10:00",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:02:50",
+"actual_cooking_time":385,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:02:50",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 23:02:20",
+"actual_cooking_time":581,
+"menu_name":"후추후추 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:57:12",
+"actual_cooking_time":239,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:57:12",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:57:12",
+"actual_cooking_time":574,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:51:45",
+"actual_cooking_time":394,
+"menu_name":"후라이드/양념 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:49:06",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:45:25",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:44:10",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:43:44",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:43:16",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:39:15",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:32:13",
+"actual_cooking_time":303,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:32:13",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:32:13",
+"actual_cooking_time":432,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:30:06",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:30:06",
+"actual_cooking_time":366,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:28:06",
+"actual_cooking_time":615,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:24:53",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:24:53",
+"actual_cooking_time":216,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:24:53",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:23:48",
+"actual_cooking_time":365,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:23:38",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:23:38",
+"actual_cooking_time":577,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:20:45",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:20:45",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:20:45",
+"actual_cooking_time":575,
+"menu_name":"후라이드/양념 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:19:07",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:18:28",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:18:28",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:17:57",
+"actual_cooking_time":364,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:15:06",
+"actual_cooking_time":627,
+"menu_name":"후라이드 뼈",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:13:56",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:13:56",
+"actual_cooking_time":366,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:12:52",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:12:52",
+"actual_cooking_time":365,
+"menu_name":"간장계장 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:08:20",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 22:08:20",
+"actual_cooking_time":365,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:59:29",
+"actual_cooking_time":365,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:59:29",
+"actual_cooking_time":374,
+"menu_name":"핫핫 맵간장 치킨",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:59:29",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:59:29",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:58:51",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:58:51",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:50:24",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:42:30",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:42:27",
+"actual_cooking_time":592,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:41:02",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:41:02",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:37:54",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:37:54",
+"actual_cooking_time":576,
+"menu_name":"후추후추 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:34:38",
+"actual_cooking_time":114,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:34:38",
+"actual_cooking_time":234,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:34:38",
+"actual_cooking_time":575,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:33:41",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:33:41",
+"actual_cooking_time":596,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:30:46",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:30:46",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:30:46",
+"actual_cooking_time":373,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:30:16",
+"actual_cooking_time":366,
+"menu_name":"후추후추/양념 순살",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:30:16",
+"actual_cooking_time":216,
+"menu_name":"감자튀김",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:28:55",
+"actual_cooking_time":599,
+"menu_name":"후라이드/간장계장 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:28:22",
+"actual_cooking_time":583,
+"menu_name":"후라이드 뼈",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:22:51",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:22:51",
+"actual_cooking_time":185,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:22:51",
+"actual_cooking_time":365,
+"menu_name":"걱정마롸요 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:22:30",
+"actual_cooking_time":574,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:21:43",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:21:43",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:19:52",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:09:53",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:09:20",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00003",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:05:44",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:03:22",
+"actual_cooking_time":285,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:03:22",
+"actual_cooking_time":576,
+"menu_name":"후추후추 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:02:14",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:02:14",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:01:30",
+"actual_cooking_time":576,
+"menu_name":"후라이드 뼈",
+"user_id":"00003",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:01:07",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:00:11",
+"actual_cooking_time":275,
+"menu_name":"치즈볼",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 21:00:11",
+"actual_cooking_time":577,
+"menu_name":"후라이드/양념 뼈",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:54:14",
+"actual_cooking_time":231,
+"menu_name":"감자튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:54:14",
+"actual_cooking_time":575,
+"menu_name":"후라이드 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:48:26",
+"actual_cooking_time":96,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:48:26",
+"actual_cooking_time":588,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:43:56",
+"actual_cooking_time":188,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:43:56",
+"actual_cooking_time":575,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:42:54",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:42:54",
+"actual_cooking_time":575,
+"menu_name":"후추후추/양념 뼈",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:39:36",
+"actual_cooking_time":576,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:37:32",
+"actual_cooking_time":574,
+"menu_name":"후추후추/양념 뼈",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:33:11",
+"actual_cooking_time":211,
+"menu_name":"고구마 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:33:01",
+"actual_cooking_time":596,
+"menu_name":"후추후추/걱정뫄롸요 뼈",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:31:09",
+"actual_cooking_time":365,
+"menu_name":"후라이드/후추후추 순살",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:29:59",
+"actual_cooking_time":276,
+"menu_name":"치즈볼",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:29:59",
+"actual_cooking_time":385,
+"menu_name":"후라이드 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:29:23",
+"actual_cooking_time":365,
+"menu_name":"후추후추 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:28:39",
+"actual_cooking_time":367,
+"menu_name":"후라이드 순살",
+"user_id":"00005",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:26:33",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:25:07",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:23:26",
+"actual_cooking_time":397,
+"menu_name":"양념치킨 순살",
+"user_id":"00004",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:21:01",
+"actual_cooking_time":186,
+"menu_name":"고구마 튀김",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:21:01",
+"actual_cooking_time":215,
+"menu_name":"감자튀김",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:21:01",
+"actual_cooking_time":577,
+"menu_name":"후라이드/후추후추 뼈",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:15:54",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00001",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:15:36",
+"actual_cooking_time":95,
+"menu_name":"옥수수 튀김",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:15:26",
+"actual_cooking_time":284,
+"menu_name":"치즈볼",
+"user_id":"00006",
+"week":"목요일"
+},
+{ 
+"order_time":"2022-02-10 20:15:26",
+"actual_cooking_time":365,
+"menu_name":"후라이드 순살",
+"user_id":"00006",
+"week":"목요일"
+}]
