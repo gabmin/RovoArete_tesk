@@ -2,6 +2,7 @@
 import { Line } from "vue-chartjs";
 import data from "../assets/data.json";
 
+// 호점과 요일에 맞는 데이터 분류
 const fitherFn = (id, week) => {
   const filtered = data.filter((info) => {
     return info.user_id === id && info.week === week;
@@ -103,10 +104,10 @@ export default {
       ],
     },
     options: {
-      responsive: false,
+      responsive: true,
       legend: {
         display: true,
-        position: "right",
+        position: "top",
         labels: {
           boxWidth: 10,
           fontSize: 17,
@@ -114,6 +115,10 @@ export default {
           usePointStyle: true,
           pointStyle: "circle",
         },
+      },
+      tooltips: {
+        mode: "index",
+        axis: "y",
       },
       scales: {
         yAxes: [

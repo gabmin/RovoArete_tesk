@@ -2,21 +2,13 @@
 import { Doughnut } from "vue-chartjs";
 import data from "../assets/data.json";
 
-const id01 = data.filter((info) => {
-  return info.user_id === "00001";
-});
-const id03 = data.filter((info) => {
-  return info.user_id === "00003";
-});
-const id04 = data.filter((info) => {
-  return info.user_id === "00004";
-});
-const id05 = data.filter((info) => {
-  return info.user_id === "00005";
-});
-const id06 = data.filter((info) => {
-  return info.user_id === "00006";
-});
+// 매장별 주문 건수 데이터 분류
+const filterId = (userId) => {
+  const filterCnt = data.filter((info) => {
+    return info.user_id === userId;
+  }).length;
+  return filterCnt;
+};
 
 export default {
   extends: Doughnut,
@@ -33,11 +25,11 @@ export default {
             "#5D7AD8",
           ],
           data: [
-            id01.length,
-            id03.length,
-            id04.length,
-            id05.length,
-            id06.length,
+            filterId("00001"),
+            filterId("00003"),
+            filterId("00004"),
+            filterId("00005"),
+            filterId("00006"),
           ],
         },
       ],
