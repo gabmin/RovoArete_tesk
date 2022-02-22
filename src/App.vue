@@ -57,6 +57,7 @@ export default {
   margin: 30px auto;
 }
 .chart button {
+  width: 100px;
   color: white;
   border: none;
   background-color: transparent;
